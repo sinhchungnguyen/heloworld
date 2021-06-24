@@ -30,3 +30,4 @@ FFF
 
 Add toto.txt
 
+new text
